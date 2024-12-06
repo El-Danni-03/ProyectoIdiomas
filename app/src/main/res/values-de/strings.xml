@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sprachen Projekt</string>
+    <string name="welcome_message">Willkommen</string>
+    <string name="button_message" translatable="false">Betreten</string>
+</resources>
